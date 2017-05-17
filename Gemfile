@@ -16,5 +16,6 @@ end
 
 group :test do
   gem "pry-rails"
+  gem "pry-byebug"
   gem "sqlite3"
 end
