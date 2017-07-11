@@ -2,13 +2,6 @@ require "spec_helper"
 require "support/controller_specs_boilerplate"
 
 describe "update_record matcher", type: :controller do
-
-  # can update
-  # didn't update?
-  # wrong params
-  # update using service form
-  # provide relevant message
-
   class User < ActiveRecord::Base
   end
 
